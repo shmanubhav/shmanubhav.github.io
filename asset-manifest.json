@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.426279a8.chunk.css",
+    "main.js": "/static/js/main.0f30c646.chunk.js",
+    "main.js.map": "/static/js/main.0f30c646.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.265afb32.js",
+    "runtime-main.js.map": "/static/js/runtime-main.265afb32.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.aa0c6d6d.chunk.js": "/static/js/2.aa0c6d6d.chunk.js",
+    "static/js/2.aa0c6d6d.chunk.js.map": "/static/js/2.aa0c6d6d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e569bd951f1bbffe3ed887025945cb64.js": "/precache-manifest.e569bd951f1bbffe3ed887025945cb64.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.426279a8.chunk.css.map": "/static/css/main.426279a8.chunk.css.map",
+    "static/js/2.aa0c6d6d.chunk.js.LICENSE.txt": "/static/js/2.aa0c6d6d.chunk.js.LICENSE.txt",
+    "static/media/AnubhavResume.pdf": "/static/media/AnubhavResume.26e2ec49.pdf",
+    "static/media/anubhavLogo.png": "/static/media/anubhavLogo.e3837e11.png",
+    "static/media/div1Background.jpg": "/static/media/div1Background.312ad781.jpg",
+    "static/media/div2Background.jpg": "/static/media/div2Background.11f6d05e.jpg",
+    "static/media/div3Background.jpg": "/static/media/div3Background.31121850.jpg",
+    "static/media/div4Background.jpg": "/static/media/div4Background.fc28ddc6.jpg",
+    "static/media/div5Background.jpg": "/static/media/div5Background.b9657f0d.jpg",
+    "static/media/spotty.jpg": "/static/media/spotty.ef38b72b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.265afb32.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.aa0c6d6d.chunk.js",
+    "static/css/main.426279a8.chunk.css",
+    "static/js/main.0f30c646.chunk.js"
+  ]
+}
