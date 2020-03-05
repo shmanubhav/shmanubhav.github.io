@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,IACE,mCACF,CAEA,KACE,sBACF","file":"main.247ca502.chunk.css","sourcesContent":["nav {\n  font-family: 'Voltaire', 'sans-serif';\n}\n\nhtml {\n  scroll-behavior: smooth;\n}\n"]}
